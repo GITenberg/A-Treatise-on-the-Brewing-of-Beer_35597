@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37773'
     url: http://www.gutenberg.org/2009/agents/37773
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35597#A-Treatise-on-the-Brewing-of-Beer
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2011-03-17'
 gutenberg_type: Text
