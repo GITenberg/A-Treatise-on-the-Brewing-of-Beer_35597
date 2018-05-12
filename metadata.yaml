@@ -1,0 +1,26 @@
+_repo: A-Treatise-on-the-Brewing-of-Beer_35597
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hughes, E.
+    gutenberg_agent_id: '37773'
+    url: http://www.gutenberg.org/2009/agents/37773
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2011-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brewing'
+- !lcc 'TP'
+- !lcsh 'Beer'
+title: A Treatise on the Brewing of Beer
+url: http://www.gutenberg.org/ebooks/35597
